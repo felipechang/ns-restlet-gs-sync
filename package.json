@@ -1,0 +1,9 @@
+{
+  "name": "ns-restlet-gs-sync",
+  "author": "Felipe Chang <felipechang@hardcake.org>",
+  "version": "0.0.1",
+  "dependencies": {},
+  "devDependencies": {
+    "@hitc/netsuite-types": "^2017.2.31"
+  }
+}
